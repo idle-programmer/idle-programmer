@@ -16,11 +16,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,docker,aws,figma,md,php" />
+<img src="https://skillicons.dev/icons?i=python,react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,docker,aws,figma,md,php" />
 <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,nextjs,mysql,stackoverflow,postman,sentry" />
 
 <h3 align="left">Stats:</h3>
 <div >
- <img width=900 height=250 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=idle-programmer&count_private=false&theme=react&border_radius=10" alt="streak stats"/> <br/><br/>
- <img width=900 height=265 src="https://github-readme-stats-salesp07.vercel.app/api?username=idle-programmer&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+ <img width=900 height=250 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=idle-programmer&count_private=false&theme=angular&border_radius=10" alt="streak stats"/> <br/><br/>
+ <img width=900 height=265 src="https://github-readme-stats-salesp07.vercel.app/api?username=idle-programmer&count_private=false&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
