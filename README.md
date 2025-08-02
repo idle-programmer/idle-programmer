@@ -21,6 +21,6 @@
 
 <h3 align="left">Stats:</h3>
 <div >
- <img width=900 height=250 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=idle-programmer&count_private=true&theme=react&border_radius=10" alt="streak stats"/> <br/><br/>
+ <img width=900 height=250 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=idle-programmer&count_private=false&theme=react&border_radius=10" alt="streak stats"/> <br/><br/>
  <img width=900 height=265 src="https://github-readme-stats-salesp07.vercel.app/api?username=idle-programmer&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
