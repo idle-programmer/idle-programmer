@@ -16,8 +16,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,react,bootstrap,mui,html,css,vscode,github,tailwind,git,docker,aws,md,php" />
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,nextjs,mysql,stackoverflow,postman,sentry" />
+<img src="https://skillicons.dev/icons?i=python,javascript,sql,aws,git" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,postgresql,angular" />
 
 <!-- <h3 align="left">Stats:</h3>
 <div >
